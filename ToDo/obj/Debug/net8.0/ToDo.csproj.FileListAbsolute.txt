@@ -1,0 +1,15 @@
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfoInputs.cache
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ToDo.AssemblyInfo.cs
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ToDo.csproj.CoreCompileInputs.cache
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
+C:\tl1-tp8-2025-Gonz0x\ToDo\bin\Debug\net8.0\ToDo.exe
+C:\tl1-tp8-2025-Gonz0x\ToDo\bin\Debug\net8.0\ToDo.deps.json
+C:\tl1-tp8-2025-Gonz0x\ToDo\bin\Debug\net8.0\ToDo.runtimeconfig.json
+C:\tl1-tp8-2025-Gonz0x\ToDo\bin\Debug\net8.0\ToDo.dll
+C:\tl1-tp8-2025-Gonz0x\ToDo\bin\Debug\net8.0\ToDo.pdb
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ToDo.dll
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\refint\ToDo.dll
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ToDo.pdb
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
+C:\tl1-tp8-2025-Gonz0x\ToDo\obj\Debug\net8.0\ref\ToDo.dll
