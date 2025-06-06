@@ -77,6 +77,15 @@ do
                         encontrada = true;
                     }
                 }
+                
+                foreach (Tarea t in tareasRealizadas)
+                {
+                    if (t.Descripcion == busqueda)
+                    {
+                        Console.WriteLine($"ID: {t.TareaID}, Descripción: {t.Descripcion}, Estado: {t.Estado}");
+                        encontrada = true;
+                    }
+                }
                 if (!encontrada)
                 {
                     Console.WriteLine("No se encontro tarea.");
