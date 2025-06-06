@@ -1,0 +1,15 @@
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.AssemblyInfoInputs.cache
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.AssemblyInfo.cs
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.csproj.CoreCompileInputs.cache
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.sourcelink.json
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.exe
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.deps.json
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.runtimeconfig.json
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.dll
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\bin\Debug\net8.0\CalculadoraHistorial.pdb
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.dll
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\refint\CalculadoraHistorial.dll
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.pdb
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\CalculadoraHistorial.genruntimeconfig.cache
+C:\tl1-tp8-2025-Gonz0x\CalculadoraHistorial\obj\Debug\net8.0\ref\CalculadoraHistorial.dll
